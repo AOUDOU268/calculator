@@ -1,1 +1,6 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1 | findstr -E '"title"|"login"|"full_name"|"state"'
 
+  "title": "Correction of typo in README",
+  "state": "open",
+  "login": "AOUDOU268",
+  "full_name": "AOUDOU268/mcino-Introduction-to-Git-and-GitHub",
