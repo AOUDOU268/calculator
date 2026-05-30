@@ -1,1 +1,0 @@
-## Our Commitment, Our Standards, Application Responsibilities, Scope, Application, Application Guidelines and Attribution.
