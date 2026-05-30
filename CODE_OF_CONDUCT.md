@@ -1,1 +1,1 @@
-## Notre Engagement, Nos Normes, Responsabilités d'Application, Portée, Application, Directives d'Application et Attribution.
+## Our Commitment, Our Standards, Application Responsibilities, Scope, Application, Application Guidelines and Attribution.
