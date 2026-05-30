@@ -1,3 +1,13 @@
+curl.exe -s https://api.github.com/repos/AOUDOU268/calculator | findstr "fork parent full_name"
+  "full_name": "AOUDOU268/calculator",
+  "fork": false,
+  "forks_url": "https://api.github.com/repos/AOUDOU268/calculator/forks",
+  "forks_count": 0,
+  "allow_forking": true,
+  "forks": 0,
+
+
+
 $ git checkout main
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
