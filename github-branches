@@ -1,0 +1,7 @@
+git branch -a
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+
+git branch -v
+* main 701dfd9 Update merge_branches
